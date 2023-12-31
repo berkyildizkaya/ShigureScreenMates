@@ -1,0 +1,49 @@
+# Bin ve Obj klasörleri
+bin/
+obj/
+.vs/
+# Visual Studio tarafından oluşturulan dosyalar
+*.user
+*.suo
+*.suo
+*.sdf
+*.opensdf
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+_ReSharper.*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio Code folders
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
