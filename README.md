@@ -1,6 +1,6 @@
 # Shigure Chibi  Gif Programı
+![gif](https://live.staticflickr.com/65535/53433242251_1a671d78db_o.gif)
 
-![Shigure Gif](shigure.gif)
 
 ## Açıklama
 
