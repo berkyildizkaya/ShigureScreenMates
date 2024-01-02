@@ -20,7 +20,7 @@ Bu program, bilgisayarınızın sağ alt köşesinde bulunan saat bölgesinin ü
 
 ## Gereksinimler
 
-- .NET Core SDK (versiyon 3.1 ve üzeri)
+- .NET Core SDK (versiyon 8.0 ve üzeri)
 - Visual Studio veya başka bir C# geliştirme ortamı
 
 
