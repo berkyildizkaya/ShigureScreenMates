@@ -33,7 +33,7 @@ namespace Shigure
             SetFormProperties();
         }
 
-        private void PictureBox_MouseDoubleClick(object? sender, MouseEventArgs e)
+        private void PictureBox_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             Environment.Exit(0);
             Application.Exit();

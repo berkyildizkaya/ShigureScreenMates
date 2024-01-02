@@ -1,4 +1,6 @@
-﻿namespace Shigure
+﻿using System.Drawing;
+using System.Windows.Forms;
+namespace Shigure
 {
     partial class Form1
     {
